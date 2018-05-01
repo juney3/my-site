@@ -1,0 +1,4 @@
+sample: {
+  "hello": true,
+  "goodbye": false
+};
