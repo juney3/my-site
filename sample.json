@@ -1,4 +1,5 @@
 sample: {
   "hello": true,
-  "goodbye": false
+  "goodbye": false,
+  "confused": true
 };
